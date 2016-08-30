@@ -1,6 +1,5 @@
 description = 'An Android library to display OpenStreetMap views.'
 apply plugin: 'com.android.library'
-apply from: 'https://raw.githubusercontent.com/chrisdoyle/gradle-fury/master/gradle/android-support.gradle'
 
 android {
     defaultConfig {
